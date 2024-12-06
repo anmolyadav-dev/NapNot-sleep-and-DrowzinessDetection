@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/anmolyadav-dev/NapNot-sleepDetection/blob/main/assets/Screenshot%20from%202024-12-06%2019-24-06.png?raw=true)
 # SLEEP DETECTION AND ALERT FOR ONLINE CLASSES
 
 This project is designed to virtually monitor attendees' engagement during online classes effectively. By utilizing live webcam feeds, the system detects whether attendees are actively participating in the class or are potentially disengaged due to sleep or lack of focus.
